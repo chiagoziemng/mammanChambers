@@ -2157,7 +2157,7 @@ img{
 .services-section.style-two{
 	padding-top:80px;
 	padding-bottom:120px;
-	background-color:#d2c5b3;
+	background-color:#fff;
 }
 
 .service-block{
@@ -3189,7 +3189,7 @@ img{
 	position:relative;
 	color:#ffffff;
 	font-size:18px;
-	opacity:0.75;
+	/* opacity:0.75; */
 	letter-spacing:10px;
 	text-transform:uppercase;
 }
@@ -3205,7 +3205,7 @@ img{
 }
 
 .page-title-section.style-two .content-boxed h1{
-	font-size:100px;
+	font-size:60px;
 	letter-spacing:0px;
 	text-transform:capitalize;
 }
